@@ -6,7 +6,7 @@
 
 ![f2](https://chart.apis.google.com/chart?cht=tx&chl=m=x_{1,2}%20=%20{-b\pm\sqrt{b^2%20-%204ac}%20\over%202a})
 
-![f3](https://chart.apis.google.com/chart?cht=tx&chl=m=x_{1,2}%20=%20{-b\pm\sqrt{b^2%20-%204ac}%20\over%202a}&chs=100 =50x)
+![f3](https://chart.apis.google.com/chart?cht=tx&chl=m=x_{1,2}%20=%20{-b\pm\sqrt{b^2%20-%204ac}%20\over%202a}&chs=100)
 
 ## Super script
 
