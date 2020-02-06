@@ -3,7 +3,8 @@
 ## 
 
 ![f1](http://chart.apis.google.com/chart?cht=tx&chl=m=\frac{m_0}{\sqrt{1-{\frac{v^2}{c^2}}}})
-![f2]https://chart.apis.google.com/chart?cht=tx&chl=m=x_{1,2}%20=%20{-b\pm\sqrt{b^2%20-%204ac}%20\over%202a}
+
+![f2](https://chart.apis.google.com/chart?cht=tx&chl=m=x_{1,2}%20=%20{-b\pm\sqrt{b^2%20-%204ac}%20\over%202a})
 
 
 ## Super script
